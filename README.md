@@ -1,3 +1,15 @@
+# Passive Detection Techniques over the original project.
+
+[VBOW.ipynb](https://github.com/hexterisk/CT-GAN/blob/master/VBOW.ipynb) implements passive detection techniques via a Visual Bag of Words approach.
+
+[ELM.ipynb](https://github.com/hexterisk/CT-GAN/blob/master/ELM.ipynb) implements passive detection techniques via Extreme Learning Machine approach.
+
+The conclusion is that passive detection techniques are ineffective against tampering of the CT scans and the models end up in a guessing state.
+
+Done as part of ICSML '19 final project submissions under the guidance of Dr. Yisroel Mirsky and Dr. Asaf Shabtai.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 # Overview
 In this repository you will find a Keras implementation of CT-GAN: A framework for adding or removing evidence in 3D volumetric medical scans. In this readme, you will find a description of CT-GAN, examples of how to use the code, and links to our tampered datasets. For more details, please see our publication:
 
